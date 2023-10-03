@@ -1,0 +1,23 @@
+*{
+padding: 0;
+    margin: 0;
+}
+article{
+    background-color: white ;
+}
+nav{
+    background-color: beige;
+}
+.img1{
+    width: 70%;
+}
+.img2{
+    width: 68%;
+    
+}
+#nav1{
+ background-color: white;
+ font-weight: bold;
+ 
+}
+
