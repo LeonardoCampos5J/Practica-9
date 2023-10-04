@@ -12,7 +12,7 @@ nav{
     width: 70%;
 }
 .img2{
-    width: 68%;
+    width: 58%;
     
 }
 #nav1{
@@ -20,4 +20,6 @@ nav{
  font-weight: bold;
  
 }
-
+p{
+    padding-left: 2%;
+}
